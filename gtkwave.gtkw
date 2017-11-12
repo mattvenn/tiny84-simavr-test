@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Sun Nov 12 18:54:03 2017
+[*]
+[dumpfile] "/home/mattvenn/work/shortcut/v6-firmware/tests/avr_keyscanner-shortcut/firmware/tiny88-simavr-test/gtkwave_trace.vcd"
+[dumpfile_mtime] "Sun Nov 12 18:53:43 2017"
+[dumpfile_size] 1163
+[savefile] "/home/mattvenn/work/shortcut/v6-firmware/tests/avr_keyscanner-shortcut/firmware/tiny88-simavr-test/gtkwave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-13.000000 9130 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 263
+[signals_width] 130
+[sst_expanded] 1
+[sst_vpaned_height] 155
+@22
+logic.PORTB[7:0]
+@23
+logic.DDRB[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
